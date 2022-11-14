@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "6371731b58ee4060a2bb60fc"
+  },
+  "nombre": "Administrador",
+  "correo": "admin@estoescine.com",
+  "contraseña": "abc123"
+}]
