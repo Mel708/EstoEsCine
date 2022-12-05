@@ -23,4 +23,10 @@
     "$oid": "637d5a31f05ecf27615cffe9"
   },
   "nombre": "Comedia"
+},{
+  "_id": {
+    "$oid": "63893e2247abac6e322fc720"
+  },
+  "nombre": "Drama",
+  "__v": 0
 }]
